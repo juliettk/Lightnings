@@ -6,7 +6,7 @@ Only photos taken during the time interval, corresponding to the lightnings info
 Algorithm: 1) draw map
 	2) parse and add lightnings data
 	3) search instagram images by tag "thunder"
-	4) choose only those who: I. Also have contain "lightning" in tags
+	4) choose only those who: I. Also contain "lightning" in tags
 				II. Have location data
 				III. Were taken during the specified time_interval
 	5) Add location markers to the map together with hyperlinks and preview images
